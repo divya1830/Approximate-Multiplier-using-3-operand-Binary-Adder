@@ -1,0 +1,25 @@
+# Simulation and log files
+*.vcd
+*.log
+*.lxt
+*.bak
+*.tmp
+*.jou
+*.pb
+*.wdb
+
+# Xilinx ISE and Vivado-generated files
+*.bit
+*.bin
+*.svf
+*.xml
+*.xpr
+*.runs/
+*.sim/
+*.cache/
+*.webtalk/
+
+# Project metadata and temp files
+*.Xil/
+*.vscode/
+*.DS_Store
